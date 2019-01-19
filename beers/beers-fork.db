@@ -31,7 +31,7 @@ INSERT INTO `beers` VALUES (5554,398,'Pride of Milford Special Ale',-1,-1,7.7,0,
 UNLOCK TABLES;
 
 
-SELECT id, 
+SELECT id, abv, name, brewery_id
 FROM `beer`.`beers`;
 
 

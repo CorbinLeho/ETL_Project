@@ -1,0 +1,1001 @@
+id,abv,name,brewery_id
+1,4.5,"Hocus Pocus",812
+2,6.7,"Grimbergen Blonde",264
+3,9.1,"Widdershins Barleywine",779
+4,8.5,Lucifer,287
+5,4,Bitter,1056
+6,5.2,"Winter Warmer",1385
+7,6,"Winter Welcome 2007-2008",1099
+8,5,"Oatmeal Stout",1099
+9,0,"Espresso Porter",501
+10,0,"Chocolate Stout",545
+11,7,"Hitachino Nest Real Ginger Brew",742
+12,4,"JuJu Ginger",779
+13,0,"The Kidd Lager",545
+14,7,"Imperial Stout",1099
+15,9,"Oak-Aged Belgian Tripel",1315
+16,8,Ultrablonde,168
+17,6.2,"Wiesen Edel Weisse",1023
+18,10,"Old Foghorn 2001",39
+19,6,Framboise,196
+20,8.7,"Cow Palace Scotch Ale 1998",483
+21,9.6,"Bigfoot 2001",1142
+22,9.6,"Bigfoot 2002",1142
+23,9.6,"Bigfoot 2003",1142
+24,9.6,"Bigfoot 2004",1142
+25,9.6,"Bigfoot 2005",1142
+26,5.9,"Winter Ale",1220
+27,5.6,"Full Moon Winter Ale",878
+28,7,"Odell IPA",935
+29,0,"Ornery Amber Lager",1271
+30,4.8,"Cutthroat Porter",935
+31,0,"Maple Nut Brown Ale Ale",1271
+32,0,"Cocoa Porter",1271
+33,7.5,"Jenlain Blonde",190
+34,7.5,Blonde,196
+35,9,"Flemish Primitive Wild Ale (Demon Fish)",432
+36,7.5,"Witkap-Pater Tripel",294
+37,0,"Winter Cheer",1175
+38,8.7,"Canaster Winter Scotch",743
+39,10,16,1307
+40,8,"Quelque Chose",1307
+41,7,Kriek,277
+42,0,"BiÃ¨re Darbyste",170
+43,7.5,"Maracaibo Especial",723
+44,9,"Flemish Primitive Wild Ale (Pin Head)",432
+45,4.8,"Calabaza Blanca",723
+46,0,Porter,901
+47,0,"Cardinal Pale Ale",901
+48,6.6,"Zinnebir Xmas",176
+49,0,"Bridal Ale 2005",974
+50,0,Zinnebir,176
+51,8.5,"Saison Imperiale",432
+52,8,"La Moneuse",170
+53,0,"Red Sled Winter Ale",901
+54,0,"Christmas Ale 2007",39
+55,8,"Equinox Dark Belgian Winter",176
+56,8,"Serafijn Christmas Angel",856
+57,8,"Obovoid Empirical Stout",160
+58,6,"Furious Beer",1221
+59,5.1,"Bender Beer",1221
+60,9.4,"Oak Aged Ebenezer",1315
+61,10,"Killer Penguin",160
+62,0,"Oatmeal Stout",236
+63,6,"Isolation Ale",935
+64,0,"Festive Ale 2007",501
+65,13,"Bourbon County Stout 2007",586
+66,5.5,"Twelve Days",670
+67,9,"Seriously Bad Elf",1056
+68,0,"Big Shot Seasonal Ale",905
+69,8.5,"God Jul - Winter Ale",923
+70,6.7,"Harvest Ale 2007",1142
+71,5.9,"Nut Cracker Ale",161
+72,0,"Goosinator Smoked Doppelbock 2007",779
+73,8.6,"Snow Bound Winter Ale",779
+74,6.6,"Warrior IPA",779
+75,5.5,"Petrus Oud Bruin",266
+76,7.5,"Petrus Gouden Tripel Ale",266
+77,6.6,"Petrus Blond Ale",266
+78,6.5,"Petrus Dubbel Bruin Ale",266
+79,5.5,"Petrus Speciale",266
+80,5.1,"Weizengold Hefefein",1202
+81,5.94,"Never Summer Ale",160
+82,0,"Modern Monks Belgian Blonde",1264
+83,0,"Grand Cru",1264
+84,0,"JÃ¶rger WeiÃŸe Hell",210
+85,4.5,"OSB Premium Ale",1272
+86,5.5,"Morocco Ale",425
+87,0,"Glacier Ale",1047
+88,0,"Bent Nail IPA",1047
+89,0,"Espresso Porter",879
+90,0,"Harvest Ale",879
+91,0,"Stillwater Rye",879
+92,0,"Sharptail Pale Ale",879
+93,0,"Fat Belly Amber",879
+94,0,"Whitetail Wheat",879
+95,0,"Sandbagger Gold",879
+96,0,"Brunette Nut Brown Ale",901
+97,0,"Irish Red",901
+98,0,"Belgian Wit",901
+99,0,"EOS Hefeweizen",901
+100,0,"India Pale Ale",901
+101,6.3,"Winter Ale",1185
+102,0,"Pride & Joy Mild Ale",1260
+103,7,"Robert the Bruce Scottish Ale",1260
+104,8,"Lump of Coal Dark Holiday Stout",1056
+105,6,"Warm Welcome Nut Browned Ale",1056
+106,5.1,"Pendle Witches Brew",884
+107,5.5,"Carnegie Stark-Porter",345
+108,11.5,"Harvest Ale 2002",727
+109,6.2,"Woody Organic IPA",1075
+110,5,Adriaan,620
+111,7.5,"Leute Bok Bier",304
+112,6,"La Folie Falling Rock",905
+113,6,"Oak Aged IPA",1315
+114,5,"Tikka Gold",304
+115,7.5,"La Divine Double Blond",179
+116,9,"La Divine Tripel Amber",179
+117,8.5,"Ename Tripel",292
+118,9.2,"Triple Dipsea Belgian",827
+119,5.7,"Oktoberfest Weizen",1019
+120,7.5,"Imperial Hefeweizen",1029
+121,9.7,"Triple Exultation Old Ale",481
+122,6.8,"Organic Gingerbread Ale",130
+123,0,"Falcon Pale Ale",1064
+124,4.8,"Buzzsaw Brown",441
+125,0,"Eisenbahn South American Pale Ale (S.A.P.A.)",369
+126,6.1,"Geist Bock",584
+127,0,"Troll Porter",623
+128,4.5,"Dark Ale",397
+129,5.4,"Cinder Cone Red",441
+130,6.4,"LTD 02 Lager",562
+131,6.5,"Saison Vielle Provision",189
+132,9.5,"Organic Barley Wine Ale 2005",130
+133,9,"Old Boardhead 2006",562
+134,7,"Blue Dot Double India Pale Ale",622
+135,0,Nugget,562
+136,0,"American Pale Ale",1175
+137,7.8,"471 Extra ESB",236
+138,6.5,"Odell Red Ale",935
+139,0,"Long Leg English Fuggles Hop Ale",335
+140,5,"Summer Lightning",671
+141,0,"Haymaker Extra Pale Ale",255
+142,0,"Pale Ale",447
+143,4.4,"Silk Lady",447
+144,5.2,"Danger Ale",447
+145,5.2,"Irish Style Ale",447
+146,7,"Yeti Special Export",1392
+147,0,"Steelie Brown Ale",1151
+148,8.7,"Bond Street 19th Anniversary",441
+149,0,Trumpeter,1151
+150,0,"Nitro Porter",1264
+151,9.46,Fourteen,62
+152,11.7,"Old Stock Ale 2007",919
+153,6.5,"Cold Hop",160
+154,7.5,"Hitachino Nest Espresso Stout",742
+155,5,Witte,433
+156,8.1,"Slaapmutske Triple Nightcap",432
+157,7,"Biere de Mars",723
+158,9,"Kerst Pater Special Christmas Beer",300
+159,7,"Zoetzuur Flemish Ale",432
+160,0,"WPA (Wheat Pale Ale)",869
+161,0,"Smoked Hefe",869
+162,5.8,"The Unforgiven Amber Ale",1084
+163,8,"Strange Ghost",192
+164,5.1,"Duke IPA",595
+165,5,"Broad Axe Stout",595
+166,4.4,"Northern Light Lager",595
+167,10.5,"Podge Belgian Imperial Stout",31
+168,8.3,"Okocim Porter",307
+169,5,1809,458
+170,10,Pannepot,433
+171,5.1,Samurai,604
+172,0,"Crystal Ale",122
+173,8.5,"Gavroche French Red Ale",177
+174,0,"Coney Island Lager",1138
+175,0,"La BiÃ¨re des Collines van de Saisis",191
+176,0,"Dark Beer / StiftsbrÃ¤u",211
+177,6.5,LuciÃ©rnaga,723
+178,0,"CuvÃ©e des Champions 2003-2004",202
+179,7.5,"Beer Geek Breakfast",859
+180,9,"Flemish Primitive Wild Ale (Spoon Whacker)",432
+181,5.5,Bock,39
+182,8.6,"Double India Pale Ale",810
+183,10,"Old Bawdy 2006",984
+184,7.5,"Extra Strong Vintage Ale",397
+185,7,"Certified Organic India Pale Ale",481
+186,5.5,"Certified Organic Porter",481
+187,0,"Certified Organic Extra Pale Ale",481
+188,4.8,"Certified Organic Amber Ale",481
+189,6.7,"Farm House Ale",706
+190,0,"Beer Town Brown",255
+191,4.4,"Tanners Jack",890
+192,16.03,"Mephistopheles Stout",62
+193,4.5,"NÃ¸gne Ã˜ Brown Ale",923
+194,8.4,"Vertical Epic 07.07.07",1204
+195,0,"Ringwood Brewery Old Thumper Extra Special Ale",1136
+196,5.1,"Export Ale",1136
+197,9.1,"Bourbon Barrel Porter",950
+198,11.26,"Old Guardian Barley Wine 2007",1204
+199,6.5,"White Christmas",892
+200,10.5,Winter,175
+201,9.28,"Undercover Investigation Shut-Down Ale",765
+202,11.6,"Harvest Ale 2006",727
+203,0,"Classic Gueuze",202
+204,6.5,Gueuze-Lambic,1315
+205,4.9,"Schwarzbier / Dunkel",484
+206,0,"Sawtooth Ale",779
+207,0,"Pole Star Pilsner",779
+208,5.3,"90 Shilling",935
+209,4.8,"Sunshine Wheat",905
+210,9.5,"Grand Cru",174
+211,8.5,"Der Weisse Bock",70
+212,0,"Stouterik / The Brussels Stout",176
+213,0,"Black Jack Porter",779
+214,5.1,"Lunar Ale",161
+215,5.4,"Denver Pale Ale / DPA",604
+216,7.7,"Grotten Flemish Ale",296
+217,9,"Grand Cru",1316
+218,0,"Summer Common",501
+219,4.7,"Golden Ale",1185
+220,9,Ambree,174
+221,6.7,"Pater 6",296
+222,4.5,"Blanche de Namur",187
+223,4.2,"Skinny Dip",905
+224,6,"Blanche Double",174
+225,0,"Summer Bright Ale",236
+226,4.8,"Mothership Wit",905
+227,4.7,"Lia Fail Stone of Destiny Ale",696
+228,4.4,"Premium XB Bluebird Bitter",395
+229,5.5,IPA,1056
+230,9,Houblon,167
+231,8.1,"Double Pilsner",935
+232,4.9,"Creamy Dark",708
+233,4.9,"Premium Pils Edelherb",757
+234,0,"StÃ¼venbrÃ¤u Maibock",590
+235,3.9,"Jack of Spades Schwarzbier",590
+236,5.4,"Shiner Hefeweizen",1179
+237,0,"Sapporo Premium Beer",1154
+238,0,"Dark German Lager",501
+239,5.2,"Spring Heat Spiced Wheat",44
+240,4.6,Gose,567
+241,5,Pils,1176
+242,4.6,New,1274
+243,0,"Eisenbahn Defumada",369
+244,0,"Eisenbahn Escura",369
+245,0,"Eisenbahn Dourada",369
+246,0,"Fallen Angel Sweet Stout",501
+247,5,"Hot Shot ESB",604
+248,8,Porter,312
+249,9,"NÃ¸gne Ã˜ Imperial Stout",923
+250,7,"NÃ¸gne Ã˜ Porter",923
+251,6,"NÃ¸gne Ã˜ Pale Ale",923
+252,0,"Eccentric Belgian Wheat",501
+253,0,"Oatmeal Stout",1265
+254,0,"Amber Light",1265
+255,0,"New World Wheat",1265
+256,0,Maibock,1265
+257,0,"Ironwood Dark",1265
+258,0,"Cascade Amber",1265
+259,0,"Alpine Gold",1265
+260,6.8,"Illuminator Doppelbock",624
+261,6.1,"Old Princeton Landing IPA",624
+262,5.2,"Paddle Out Stout",624
+263,4.6,"Pillar Point Pale Ale",624
+264,4.5,"Sandy Beach Blonde Hefeweizen",624
+265,4.8,"Mavericks Amber Ale",624
+266,4.8,"Harbor Light Ale",624
+267,0,"Leroy Barleywine",1126
+268,6,"Oatmeal Stout",1126
+269,5,Amber,1126
+270,0,"Blur IPA",1126
+271,5,"Pelican Pale",1126
+272,0,"Brew Ribbon",1126
+273,7.25,"Casey Jones Imperial IPA",701
+274,5.5,"Fairfax Coffee Porter",701
+275,5.5,"Epiphany Ale",701
+276,6,IPA,701
+277,4.5,"Chazz Cat Rye",701
+278,5,"Shining Star Pale Ale",701
+279,5.8,"Honey Bunny Blonde Ale",701
+280,4,"Kent Lake Kolsch",701
+281,10,"Old Blarney Barleywine",892
+282,4.8,"Irish Dry Stout",892
+283,8,"Kilt Lifter Scottish Ale",892
+284,6.5,"India Pale Ale",892
+285,7,"Blonde Bock",588
+286,4.3,Schwarzbier,588
+287,0,"Czech Lager",588
+288,10,"Yule Tide",385
+289,5.3,Pilsner,588
+290,7,"Warka Strong",308
+291,0,Porter,1074
+292,0,ESB,1074
+293,0,"Pale Ale",1074
+294,0,"Kristall Weizen",1074
+295,6,"ESB (Extra Special Blizzard)",1163
+296,0,"Paint the Town Red",677
+297,0,"Golden Ale",677
+298,0,"Train Wreck IPA",1004
+299,3.8,"Zone 7 Porter",1004
+300,5.3,"Pleasanton Pale",1004
+301,0,"Island Wheat",1004
+302,5.6,Hefeweizen,707
+303,0,"Red Ale",707
+304,5.8,"Penalty Shot Porter",707
+305,7.5,"India Pale Ale",707
+306,5.6,"Grid Iron Amber Ale",707
+307,3.5,"Boys of Summer Wheat",707
+308,0,"Pale Ale",523
+309,0,"Red Ale",523
+310,0,Hefeweizen,523
+311,0,Bitter,523
+312,0,"Double IPA",523
+313,8.5,"Tatonka Stout",133
+314,6.4,"P.M. Porter",133
+315,7.3,"Jeremiah Red",133
+316,5.7,"Piranha Pale Ale",133
+317,4.9,"Harvest Hefeweizen",133
+318,4.7,"Brewhouse Blonde",133
+319,5.9,"Nutty Brewnette",133
+320,0,"India Pale Ale (IPA)",515
+321,0,"Belgian Tripel",515
+322,0,"Belgian Abbey",515
+323,0,Stout,515
+324,0,"Pale Ale",515
+325,0,"Best Bitter",515
+326,0,"Hefe Weizen",515
+327,0,Pilsner,515
+328,0,KÃ¶lsch,515
+329,11.5,"Harvest Ale 2005 (Whisky)",727
+330,11.5,"Harvest Ale 2005 (Calvados)",727
+331,11.5,"Harvest Ale 2005 (Sherry)",727
+332,11.5,"Old Crustacean Barleywine 2006",1072
+333,5.4,"Avalanche Amber",236
+334,0,"Hefe Proper Ale",236
+335,5.1,"Levity Amber Ale",935
+336,4.6,"Easy Street Wheat",935
+337,5.4,"Boulevard Pale Ale",161
+338,5.4,"Bully! Porter",161
+339,0,"Bovine Belgian Winter Ale",795
+340,0,"XX Black Angus Stout",795
+341,0,"Blarney Stone Stout",795
+342,0,"Bison Brown Ale",795
+343,0,"Prairie Pale",795
+344,0,"Wildcat Wheat",795
+345,4.9,"Boulevard Dry Stout",161
+346,5.5,"Planet Porter / Boulder Porter",160
+347,8,Amber,195
+348,4.5,"Blanche des Moines",187
+349,7.2,"Triple Moine",187
+350,9,Arabier,272
+351,8.9,"Bos Keun",272
+352,10.5,"Grand Cru",175
+353,7.5,Oerbier,272
+354,10,"Dulle Teve / Mad Bitch",272
+355,0,Vuuve,278
+356,9,"Gouden Carolus Tripel",284
+357,8,"Gouden Carolus Ambrio 1471",284
+358,8,"Pauwel Kwak",269
+359,10,"Delirium NoÃ«l",285
+360,11.3,"Rochefort 10",7
+361,8.5,McChouffe,167
+362,9.2,"471 Double IPA",236
+363,8,"La Chouffe Golden Ale",167
+364,5,"Saison Voisin",184
+365,0,"Olde Expensive Ale",322
+366,10,Quadrupel,110
+367,8,Tripel,110
+368,7,Dubbel,110
+369,6.5,"Old Growler",903
+370,7.5,"Urthel Vlaemse Bock",431
+371,7.5,"Watou Tripel",296
+372,7,Matilda,586
+373,8,"Old Engine Oil Special Reserve (aged in malt whisky casks)",638
+374,7.1,"Imperial Stout",935
+375,11,"EKU 28",757
+376,9.2,Eisbock,757
+377,8.5,"Doppelbock Dunkel",1115
+378,6.4,"Special London Ale",1385
+379,5.2,"Oatmeal Stout",1385
+380,8,Super,128
+381,5.6,Wayan,128
+382,0,"GABF 25th Year Beer",160
+383,9.4,"Old Foghorn 2006",39
+384,10,"Grand Cru 2006",21
+385,6.5,"Cerveza Negra",363
+386,7.5,"Cerveza Diablo",363
+387,6,"Cerveza Roja",363
+388,9,"Buffalo Belgian Stout",300
+389,0,"Rader AmbrÃ©e",238
+390,6.5,"Rader Blonde",238
+391,4.4,Toleration,626
+392,0,"English Ale",1185
+393,5.8,"Ripon Jewel Ale",425
+394,4.5,XTra,200
+395,4.5,"Bam BiÃ¨re",723
+396,14,"Samichlaus Bier 2005",1115
+397,10,Barleywine,609
+398,10.2,"Old Godfather",1177
+399,12,"Aventinus Weizen-Eisbock",1023
+400,8.2,"Aventinus Weizenstarkbier / Doppel Weizen Bock",1023
+401,8.5,"New Belgium Trippel Belgian Style Ale",905
+402,7.7,"Hennepin Farmhouse Ale",249
+403,7,"Abbey Belgian Style Ale",905
+404,6.8,"India Pale Ale",1142
+405,9.6,"Bigfoot 2006",1142
+406,0,"Iron Fist Pale Ale",1054
+407,8,Demolition,586
+408,8,"Oro de Calabaza",723
+409,7.2,"La Roja",723
+410,9,"Brother Thelonious",919
+411,5.5,"Hop Trip Fresh Hop Pale Ale",441
+412,0,"Organic Belgian Ale",130
+413,12,"Nieuw Ligt Grand Cru 2006",1192
+414,8.1,"Hibernation Ale",604
+415,0,"Wee Heavy Winter Ale",623
+416,6.6,"2Â° Below",905
+417,5.3,"Monkey Wrench Dark Ale",425
+418,4.1,"Old Legover",425
+419,9.1,"Hercules Double IPA",604
+420,6.1,"Fresh Hop Pale Ale",604
+421,6.1,"Twisted Thistle India Pale Ale",98
+422,0,"Espresso Stout",1315
+423,6.8,"Inversion IPA",441
+424,7.5,"India Pale Ale",844
+425,6.5,"London Porter",844
+426,9,"Hitachino Nest Celebration Ale 2006",742
+427,6,Rubia,363
+428,5.1,"Session Premium Lager",562
+429,8.1,"Mocny BOSS / BOSS Beer",156
+430,7.2,"La Rossa",127
+431,4.8,"Blue Paddle Pilsener",905
+432,4,Lager,367
+433,4.9,Hell,70
+434,4.9,Pilsner,70
+435,5.2,"Ungespundet Lager Hefetrub",70
+436,0,Keller-Bier,1188
+437,0,"Imperial Porter",1264
+438,0,"Amber Ale",1264
+439,6,"La Folie",905
+440,10,"Abt 12",296
+441,9.5,Nostradamus,195
+442,9,Triple,175
+443,10,Ultrabrune,168
+444,0,"PÃ¨re NoÃ«l",277
+445,6,"Bah Humbug",1375
+446,11.5,"Harvest Ale 2005 (Port)",727
+447,11.5,"Harvest Ale 2005",727
+448,7.5,Moonraker,727
+449,6,"Old Engine Oil",638
+450,4.3,"Pitchfork Rebellious Bitter",1043
+451,3.8,"Bitter and Twisted",638
+452,0,"India Pale Ale",1185
+453,4.5,"Old Slug Porter",1043
+454,0,"Golden Abbot Lager",744
+455,7.1,Porter,744
+456,0,"MÃ¶nchshof KellerbrÃ¤u",757
+457,5,Nightmare,626
+458,0,Ur-Weisse,205
+459,4.3,"Schlenkerla Helles Lagerbier",650
+460,8.5,"Ondineke Oilsjtersen Tripel",743
+461,6,"Ale Mary",1043
+462,7,"Jan de Lichte",743
+463,9.6,"Bigfoot 2000",1142
+464,4.6,"Rauchbier Lager",222
+465,0,"Bourbon Imperial Stout",14
+466,0,Witbier,14
+467,0,"Bavarian Bock",14
+468,0,Heater,14
+469,0,"Harvest Brown",14
+470,0,Brout,14
+471,0,"Aecht Schlenkerla Rauchbier MÃ¤rzen",650
+472,0,"Aecht Schlenkerla Rauchbier Weizen",650
+473,5.4,"Kapuziner Schwarz-Weizen",757
+474,6,"Christmas Bock",70
+475,8,"Prior 8",296
+476,4.8,"Old Man Ale",395
+477,10.5,"Criminally Bad Elf",1056
+478,7.5,"Very Bad Elf Special Reserve Ale",1056
+479,4.9,Weisse,70
+480,4.9,"MÃ¶nchshof Premium Schwarzbier",757
+481,8,"St. Bernardus Tripel",296
+482,0,"BiÃ¨re Blanche",296
+483,0,Wychcraft,1375
+484,10,"Double Bastard Ale",1204
+485,7.5,"Rochefort 6",7
+486,8.5,Guldenberg,277
+487,9.5,"Westmalle Trappist Tripel",262
+488,0,"Fire in the Hole!",590
+489,6.8,"Cow Palace Scotch Ale",590
+490,8.1,"Toil & Trubbel Dubbel",590
+491,8.4,"Abtskelder Tripel",590
+492,0,"All-American Gold",590
+493,9,"Curator Dunkler Doppelbock",511
+494,0,"Kloster Dunkel",511
+495,0,"Kloster Edel-Hell",511
+496,0,"Teton Ale",594
+497,4.8,Pilsener,534
+498,6.5,Nickelbier,230
+499,4.8,Edel-Pils,216
+500,0,Weiss-Gold,845
+501,0,Zwickelbier,225
+502,5,Pils,225
+503,5.1,Spezial,225
+504,0,WeiÃŸe,1120
+505,5.3,Schwarzbier,1120
+506,4.9,Pils,1120
+507,0,"Original NÂº 1 NaturtrÃ¼b",1120
+508,0,Schwarze,74
+509,0,Blonde,74
+510,4.9,Rotgold-Pils,74
+511,5.2,Spezial,30
+512,4.9,Pils,30
+513,7.5,"Coronator Helle Doppelbock",204
+514,0,"See-Weizen Bio-Hefeweizen",204
+515,0,Kellerpils,204
+516,0,Pils,204
+517,0,Kronenbier,204
+518,0,"Dunkles Weissbier",1146
+519,0,Festbier,1146
+520,0,"Dunkles Lager",1146
+521,0,Weizen,1146
+522,0,"BrÃ¤ustatt Pils",1146
+523,0,"BrÃ¤ustatt Gold",1146
+524,0,"Altbairisch Dunkel",205
+525,6,"Pickled Santa",671
+526,7.3,"Manchester Star Ale",727
+527,8.5,"Moinette Brune",189
+528,8,Chocolat,192
+529,0,"BiÃ¨re de NoÃ«l",190
+530,0,"BiÃ¨re de Gamme",164
+531,0,"Panil BarriquÃ©e",129
+532,0,"CuvÃ©e du 7Ã¨me",183
+533,0,"Dark White",192
+534,0,"Festive Ale 2006",501
+535,5.5,"Green Valley Stone Mill Pale Ale",44
+536,0,"Green Valley Wild Hop Lager",44
+537,0,"LÃ¶wen Weisse",806
+538,0,Herbstbier,1198
+539,0,Altbier,1198
+540,0,Huusbier,1198
+541,0,"Leermond Bier",217
+542,0,"Original Ittinger KlosterbrÃ¤u",649
+543,4.5,"Huusbier Schwarz",233
+544,0,Oktoberfest,233
+545,5.5,Weizentrumpf,233
+546,6,"Honey Brown Ale",233
+547,4.6,"Huusbier Hell",233
+548,0,"KÃ¶nig Ludwig Weissbier Dunkel",748
+549,4.6,Gambrinus,877
+550,0,"NaturtrÃ¼bes Kellerbier",877
+551,5,Stout,1116
+552,5,Weizen,1116
+553,5.5,Spezial,1116
+554,5.1,Naturtrubes,1116
+555,0,"St. Galler Landbier",219
+556,0,Maisbier,569
+557,0,Weizenbier,569
+558,0,Dunkel,569
+559,0,Hell,569
+560,5.6,Spezial,877
+561,0,Single-Malt-Bier,1344
+562,5.1,Ur-Pils,1344
+563,5,Ur-Weizen,1344
+564,5,Hanf,1344
+565,4.8,Dunkel,1344
+566,4.8,Hell,1344
+567,4.8,Blond,1344
+568,5.3,"Dunkle Weisse",213
+569,0,"WalderBrÃ¤u Export",750
+570,5.2,Hefe-Weizen,216
+571,5.2,Edel-Spezial,216
+572,0,Alt-DÃ¼rrener-WeiÃŸe,479
+573,0,Edelweiss,479
+574,0,Kristall-Weizen,479
+575,0,Hofgutsbier,479
+576,5.1,"Humpis-Original Naturtrub",479
+577,0,Hefeweizen,568
+578,0,Spezial,568
+579,0,Kellerpils,568
+580,0,"Sanwald Dunkelweizen",451
+581,4.9,"Das Schwarze / Dark",451
+582,5.2,"Hecker Dunkel",1083
+583,0,"Kristall Weizen",1083
+584,0,"Hefe Weizen Dunkel",1083
+585,0,"Schimmele Hefe Pils",1083
+586,0,"Hefe Weizen Hell",1083
+587,0,Spezial-Export,1083
+588,0,Edel-Pils,1083
+589,0,Herbstbeer,230
+590,0,Weizen,230
+591,0,Kupfer,230
+592,0,Messing,230
+593,0,Saison,905
+594,8,"Duinen Dubbel",285
+595,5.9,"Castelain St.Amand French Country Ale",165
+596,6.5,"Red Racer India Pale Ale",357
+597,0,"Steelhead Stout",357
+598,0,"Iceberg Copper Bock",357
+599,0,"Boomers Red Ale",357
+600,0,"Springboard Lager",357
+601,0,"Light Lager",119
+602,0,"Old Sullivan Porter",119
+603,0,"Brotherhood Black & Tan",119
+604,0,"Clover Pale Ale",119
+605,0,Lager,119
+606,0,"Red Truck Ale",119
+607,0,"Dry Stout",120
+608,0,"Extra Special Bitter",120
+609,0,"Nut Brown Ale",120
+610,0,"Pale Ale",120
+611,0,"Vienna Lager",120
+612,0,Pilsner,120
+613,0,"Blonde Ale",120
+614,0,"Cream Ale",1085
+615,0,"Blonde Ale",1085
+616,0,"Special Lager",1085
+617,0,"Pale Ale",1085
+618,0,"Pale Ale",1034
+619,0,"Beacon India Pale Ale",788
+620,0,"Traditional India Pale Ale",1237
+621,0,"Mad Scow Stout",1237
+622,0,"Red Truck Ale",1237
+623,0,"Two Lions Pale Ale",1237
+624,0,"Baden Powell Cream Ale",1237
+625,0,"Dominion Lager",1237
+626,0,"Yippee IPA",1381
+627,0,"Downtown Brown",1381
+628,0,"Tropical Lager",453
+629,0,"Honey Brown",453
+630,0,IPA,453
+631,0,"Game Day",453
+632,0,"Red Truck Ale",453
+633,0,"Red Truck Lager",453
+634,0,"Pale Ale",828
+635,0,"Premium Gold",828
+636,5.8,"India Pale Ale",873
+637,6.5,"Oatmeal Stout",873
+638,4.8,"Cream Ale",873
+639,4.8,"Blonde Draft",873
+640,0,Hefeweizen,598
+641,5,"Island Lager",598
+642,5,"English Bay Pale Ale",598
+643,5,"Kitsilano Maple Cream Ale",598
+644,4.7,"Cypress Honey Lager",598
+645,0,"Pelican Bay Brown",457
+646,4.7,"Marina Light Lager",457
+647,4.8,"Haupenthal Hefeweizen",457
+648,5.3,"Old Bridge Dark Lager",457
+649,4.9,"Johnston Pilsener",457
+650,4.3,"Cartwright Pale Ale",457
+651,10,15,1307
+652,0,"Gueuze Bio / Organic Gueuze",202
+653,0,Hopluia,1178
+654,0,"Czech Premium Lager",995
+655,0,Bobby,935
+656,3.5,"1916 Irish Stout",590
+657,7.4,"Model-A-Tor Doppelbock",590
+658,5.6,"Wilsteraner Altbier",590
+659,5.3,"Eighty-Shilling Scottish Ale (80/-)",590
+660,0,"Dark Lager",647
+661,0,"Lager Beer",647
+662,0,"Premium Light Lager Beer",647
+663,0,"Trademark English Pale",236
+664,0,"Jolly Roger",829
+665,0,"Firkin IPA",829
+666,5.5,"Portage Bay Pilsener",829
+667,4.3,"Old Seattle Lager",829
+668,5.5,"Nightwatch Dark Ale",829
+669,5,"Islander Pale Ale",829
+670,5.5,"Salmon Bay E.S.B.",829
+671,5.2,"Clipper Gold Hefeweizen",829
+672,5.2,"Flagship Red Alt Ale",829
+673,8,"Slam Dunkelweizen",123
+674,0,Trombipulator,123
+675,0,"Faux Paddy Irish Ale",123
+676,0,"Black Mulligan Dublin Stout",123
+677,0,"Coal Creek Porter",123
+678,0,"Atlas Amber Ale",123
+679,0,"Prime Time Pale Ale",123
+680,0,"Snow Melt Nitrogen Pale",123
+681,0,"Old Rip Oatmeal Stout",123
+682,0,"Scarlet Fire IPA",123
+683,6.3,"The Immortal IPA",496
+684,6.6,"Whoville Weizenbock",496
+685,3.8,"Warminster Special Bitter",497
+686,6,"AK-47 Malt Liquor",497
+687,4,"Foster Child Australian Lager",497
+688,6.2,"Avatar Jasmine IPA",496
+689,0,"BiFrÃ¶st Winter Ale",496
+690,4.8,"Elysian Fields Pale Ale",496
+691,4.8,Loki,496
+692,4.7,"Zephyrus Pilsner",496
+693,5.4,"Perseus Porter",496
+694,5.9,"The Wise ESB",496
+695,5.3,"Ambrosia Maibock",496
+696,0,"BÃªte Blanche",496
+697,0,"Auld Acquaintance Spiced Ale",984
+698,0,"India Pale Ale",984
+699,0,"Oatmeal Stout",984
+700,0,"Kilt Lifter Scotch Ale",984
+701,0,"Pale Ale",984
+702,0,Weisse,984
+703,6.2,"Imperial Stout",1296
+704,7.2,"Imperial I.P.A.",1296
+705,0,"India Pale Ale",1296
+706,5,"N.W. Pale Ale",1296
+707,5,Bock,1296
+708,4.3,Weissbier,1296
+709,5.7,Saison,1296
+710,4.7,Pilsner,1296
+711,0,"Nebraska Bitter",842
+712,0,"Irish Stout",842
+713,0,"I.M. Pale",842
+714,0,"Wheat Beer",842
+715,0,Golden,842
+716,0,Porter,842
+717,6.45,"Terminator Stout",842
+718,0,"India Pale Ale",842
+719,0,"Hammerhead Ale",842
+720,0,"Icebreaker Barley Wine",445
+721,7.4,"Industrial IPA",445
+722,6.2,IPA,445
+723,5.6,"Possession Porter",445
+724,4.8,"Steamer Glide Stout",445
+725,0,E.S.B.,445
+726,5.6,"Brown Ale",445
+727,5.2,"Golden Ale",445
+728,5.8,Hefe-Weizen,445
+729,4.3,"Lighthouse Ale",445
+730,0,Golden,475
+731,5.6,"Gale Force IPA",1124
+732,5.8,Porter,1124
+733,4.3,"Nut Brown",1124
+734,5.1,"Amber Ale",1124
+735,4.6,"Hefe Weizen",1124
+736,0,Maibock,1124
+737,0,"Sequoia Red",1124
+738,4.6,"Homeport Blonde",1124
+739,5.3,"Skibbereen Stout",1151
+740,6.65,"Red Card Lager",1151
+741,0,Navidad,1151
+742,4.5,"Free Bike Amber",1151
+743,6,"Highwater Porter",1151
+744,4.8,"Skagit Brown Ale",1151
+745,4.5,"Yellowjacket Pale Ale",1151
+746,4.3,"Dutch Girl Lager",1151
+747,4,"Del Rio Lager",1151
+748,0,Barleywine,504
+749,0,"Imperial Pale",504
+750,0,"Spring Bock",504
+751,0,"Irish Stout",504
+752,6.6,"India Pale Ale",504
+753,5.9,Porter,504
+754,0,"Firehouse Red",504
+755,5.1,"Tacoma Brew",504
+756,4.3,Hefeweizen,504
+757,4.1,"Belgian White",504
+758,0,"Poseidon Imperial Stout",526
+759,0,"Thornton Creel Ale",526
+760,0,"Blonde Ale",526
+761,0,Light,526
+762,7.5,"WinterFish Ale",526
+763,0,"Mudshark Porter",526
+764,6.7,"Organic India Pale Ale",526
+765,4,"Wild Salmon Pale Ale",526
+766,5,"Organic Amber Ale",526
+767,4.7,"Blind Pig Dunkelweizen",526
+768,4.5,"Whistling Pig Hefeweizen",526
+769,7,"Snow Cap",1030
+770,5.1,DPA,1030
+771,4.9,"Krystal Weizen",1030
+772,6.7,"Thunder Head IPA",1030
+773,5.5,"Amber Weizen",1030
+774,5.2,Hefeweizen,1030
+775,4.8,"Curve Ball",1030
+776,0,"Bourbon Barrel Stout",704
+777,0,"Oak Stout",704
+778,0,"Two Frog Dubbel",704
+779,0,"Farm Frog",704
+780,0,"Frosty Frog",704
+781,0,"Dry Hopped IPA",494
+782,5.75,"No Doubt Stout",494
+783,7.5,"Riot Ale",494
+784,5.5,IPA,494
+785,5.5,"Alembic Pale",494
+786,4.5,"Luna Weizen",494
+787,11,"Castaway Barley Wine Winter Ale",966
+788,0,"Blacktop Porter",966
+789,0,"Puget Porter",966
+790,0,"Rat City IPA",966
+791,0,"Fauntleroy Stout",966
+792,0,"Alki Ale",966
+793,0,"Vashon Old Stock Ale",966
+794,0,"Admiral ESB",966
+795,0,"Driftwood Ale",966
+796,7,"Kataja Olut IVB",770
+797,6.5,"Cream Stout",1185
+798,10,"Leviathan 2004",526
+799,6.8,"MoJo India Pale Ale",160
+800,10,"Old Woody 2005",526
+801,0,Weisse,103
+802,9.5,"Urthel Hop-It",431
+803,8,"Super Natural Oatmeal Stout",641
+804,9,"Flemish Primitive Wild Ale (Pig Nun)",432
+805,8.5,"Andelot Cuvee Diabolique",432
+806,10,"Lozen Boer Abt",432
+807,9.9,"Imperial Gold Malt Liquor",641
+808,9.5,"Double Daddy",1177
+809,0,"Old Crustacean Barleywine 2005",1072
+810,10,Fred,622
+811,9.5,"Wee Heavy",21
+812,0,Porter,709
+813,10.2,"Horn Dog",540
+814,0,"Nut Brown Ale",137
+815,0,"Chaser Pale",137
+816,9.5,"Trappist Extra",270
+817,9.5,Brune,174
+818,15.04,"Olde School Barleywine",459
+819,9.6,"Urbock 23Â°",1115
+820,8.5,"Double Diamond Winter",447
+821,6.9,"Stone IPA",1204
+822,13,"Scaldis Prestige",188
+823,9,"Flemish Primitive Wild Ale (Surly Bird)",432
+824,0,"Red Menace Big Amber",623
+825,7.5,Blonde,174
+826,7.7,"St. Sebastiaan Golden",297
+827,4.7,Pils,221
+828,5.2,Hefe-Weizen,221
+829,4.7,Xingu,368
+830,7.8,"Slip Knot Imperial IPA 2006",562
+831,8.5,"Bottleworks IPA",447
+832,9,"Old Rasputin Russian Imperial Stout",919
+833,9.5,"Yeti Imperial Stout",604
+834,0,"Hefe-Weizen Dunkel",745
+835,5.4,Winter-Traum,745
+836,7.5,"Poperings Hommel Ale",301
+837,0,"Smoked Rye Bock",907
+838,0,"Russian Imperial Stout",1263
+839,6,"Jenlain St Druon de Sebourg",190
+840,7,"Les Sans Culottes",196
+841,0,"Bruocsella 1900 Grand Cru",202
+842,12,"Scaldis / Bush Amber 12%",188
+843,4.6,"Princess of Darkness Porter",590
+844,5,"Impromptu Pale Ale",590
+845,6,"Steinworthy Oktoberfest",590
+846,5.6,"DSB / Dusters Special Bitter",590
+847,4.4,"Bugeater Brown Ale",590
+848,5.5,"Tin Lizzie Hefeweizen",590
+849,0,"All-American Lager (discontinued)",590
+850,5.3,"Heavenly Helles",590
+851,6.9,"Orval Trappist Ale",169
+852,0,"Trappist Bruin Bier / BiÃ¨re Brune",270
+853,9.2,"Rochefort 8",7
+854,8,"Satan Red",271
+855,4.5,"Entire Stout",671
+856,5.2,Ivanhoe,1056
+857,6,"XX Bitter",277
+858,0,Moza,359
+859,5.4,Negra,370
+860,0,Stout,1003
+861,0,Porter,717
+862,0,Oktoberfest,717
+863,0,"Tip Top Pale Ale",717
+864,8.5,DoppelSticke,1303
+865,6,Sticke,1303
+866,4.5,Alt,1303
+867,7,"Hitachino Nest Japanese Classic Ale",742
+868,7.5,"9th Anniversary IPA",1204
+869,10,Adam,622
+870,7.5,Rose,622
+871,11,"Kasteel Bier Donker-Foncee",303
+872,11.5,"Urthel Samaranth Quadrium Ale",431
+873,8.5,"Andelot Mystique",432
+874,7,"Andelot Angelique",432
+875,6.5,"Andelot Euphorique",432
+876,10.5,Terrible,1307
+877,11.5,"Deus Brut des Flandres",269
+878,0,"Kentucky Ale",28
+879,5.3,"5 Barrel Pale Ale",935
+880,0,"Spruce Ale",1143
+881,0,"Triple ImpÃ©riale",174
+882,9.5,"Avec Les Bons Voeux",189
+883,6,Blonde,175
+884,0,"Oatmeal Cream Stout",1143
+885,5.2,"Augustinian Ale",903
+886,4.5,"Butty Bach",1378
+887,0,"Pale Ale",623
+888,8,"De Horste Vermeer Traditional Dutch Ale",109
+889,5.5,Troublette,195
+890,6.2,"Blonde Tradition",194
+891,0,NoÃ«l,128
+892,8,Yeti,182
+893,8,"Brune / Brown",175
+894,0,"Pere Jacques",586
+895,5.4,"1784 Anniversary Beer",1331
+896,5.2,"Baltas Alus",1331
+897,0,"El Jefe Weizen Ale",623
+898,0,Hefeweizen,89
+899,0,"Dancing Trout Ale",89
+900,5.5,"Untouchable Pale Ale",1177
+901,5,"X Extra Pale Ale",21
+902,0,"Chehalem Mountain IPA",584
+903,8.5,"Moylander Double IPA",892
+904,6.5,"Indica India Pale Ale",803
+905,5.1,Vichtenaar,305
+906,8,"Zatte Amsterdamse Tripel",261
+907,11.4,"Old Stock Ale 2004",919
+908,10.2,"Old Ruffian",604
+909,10.5,Talon,849
+910,0,"Will-BrÃ¤u Ur-Bock",661
+911,6.9,Asam-Bock,745
+912,4.7,Barock-Dunkel,745
+913,0,"Hefe-Weizen Hell",745
+914,0,"Neuschwansteiner Bavarian Lager",659
+915,0,"Wooly Bully",1143
+916,0,"Mongoose IPA",623
+917,6.5,"Big Daddy IPA",1177
+918,6.8,"Titan IPA",604
+919,4.5,"St Peter's Organic Ale",1185
+920,5.1,"Old-Style Porter",1185
+921,0,"Ã‰dition 2005",1307
+922,8.5,"Vertical Epic 05.05.05",1204
+923,12,"Speedway Stout",21
+924,0,"Cream Stout",447
+925,10,"Grand Cru",447
+926,0,"AmbrÃ©e / Chestnut Beer",199
+927,6,"Quail Springs IPA",441
+928,5.5,IPA,447
+929,7.2,"Cambonator Doppelbock",26
+930,5.5,"Best Bitter",447
+931,9.6,"Porter Czarny Boss / Black BOSS Porter",156
+932,9.5,"Oak Aged Yeti Imperial Stout",604
+933,0,"Riverboat Rye",1205
+934,0,"Masterpiece Porter",1205
+935,0,Stout,1205
+936,0,"Pioneer Black River Red",1103
+937,4.8,Pilsner,207
+938,6.8,"Double IPA",1315
+939,6.5,"Dundee Export 90 Scotch Ale",1315
+940,5.9,"Blackstone Stout",1315
+941,5.5,"Red Ale",691
+942,6,"Schuylkill Punch",823
+943,12.7,Nokdechiloff,823
+944,8,"California Dreaming",823
+945,6.4,"Manayunk Lager",823
+946,5.1,"Brilliant Barstool",823
+947,5.3,"Krooks Mill",823
+948,5,"Summer Gold",823
+949,4.7,"Bohemian Blonde",823
+950,7.4,"Trompe La Mort",503
+951,0,"3C Extreme",916
+952,0,"Bill Payer Ale / BPA",916
+953,0,"Ich Bin Ein Berliner Weisse",916
+954,9.5,"Wee Heavier",916
+955,0,Tart,916
+956,0,"Spring Ale",916
+957,0,"PÃ©chÃ© Mortel",449
+958,0,"Oude Gueuze Vielle",290
+959,0,"Lambic 2002",202
+960,5,"Gueuze 1882",283
+961,0,"Oatmeal Stout",691
+962,0,"Belgian Singel",691
+963,0,IPA,691
+964,0,Kolsch,691
+965,0,Dunkelweizen,1321
+966,6.1,"Regiment Pale Ale",1321
+967,5.7,"Red Coat Ale",1321
+968,7.5,"Instigator Doppelbock",1158
+969,5.1,"Piketown Pils",1158
+970,5.6,"Seamus Irish Red",1158
+971,6.6,"Helles Bock",1158
+972,5.3,"Burns Scottish Ale",1158
+973,7.2,"Anniversary IPA Ahtanum",1158
+974,7.2,"Anniversary IPA Glacier",1158
+975,7.2,"Route 113 IPA",1158
+976,4.1,"Featherweight Lager",1158
+977,5.7,"Royal Weisse",1158
+978,5.5,"Phoenix Pale Ale",1158
+979,4.7,"Helles Golden Lager",1158
+980,4.2,"Golden Treasure",409
+981,6,"Crabby Larry's Irish Red Ale",409
+982,5.4,"Calico Jack Amber Ale",409
+983,0,"Pale Ale",409
+984,0,"Summer Lager",409
+985,0,"Irish Stout",1011
+986,0,"Hop Hazard",1011
+987,0,"Indian Red Ale",1011
+988,0,Lager,1011
+989,0,"Special Ale",1011
+990,0,"Irish Red Ale",841
+991,8,"Abbey 8",841
+992,6.2,"Farmhouse Saison",841
+993,6.6,"East Kent IPA",841
+994,6.5,"French Country Spring Beer",841
+995,5.7,"Black Lab Stout",841
+996,5.5,"Old Rogue Pale Ale",841
+997,4,"Unicorn Amber Ale",841
+998,3.5,"Light Lager",841
+999,0,"Half Again Bock",721
+1000,0,"Winterfest Lager",721
